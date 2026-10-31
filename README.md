@@ -4,50 +4,36 @@
 
 <br>
 
-**你好，我是 Monji。** 👋
+**你好，我是 Monji。** 👋<br>
+**Hi, I'm Monji.** 👋
 
-喜欢把想法做成看得见、用得上的东西。在这里，我探索产品、Web、AI 和创意工作流，也记录一路上的好奇心。
+喜欢把想法做成看得见、用得上的东西。在这里，我探索产品、Web、AI 和创意工作流，也记录一路上的好奇心。<br>
+I enjoy turning ideas into things people can see and use. Here I explore products, the web, AI, and creative workflows, following my curiosity along the way.
 
 `Web & Design` &nbsp; `AI + Creativity` &nbsp; `Open Source`
 
 <br>
 
-### ✳︎ 一些正在探索的东西
+### ✳︎ 正在探索 · What I'm exploring
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📚 [集市 Agora](https://github.com/HuaShenYay/agora-next)**  
-用 AI 和开源协作重新翻译经典书籍的实验。
+**📚 [集市 Agora](https://github.com/HuaShenYay/agora-next)**<br>
+用 AI 和开源协作重新翻译经典书籍的实验。<br>
+An experiment in translating classic books with AI and open collaboration.
 
 `Next.js` `AI` `Open Source`
 
 </td>
 <td width="50%" valign="top">
 
-**🎬 [AIGC 影视制作大师](https://github.com/HuaShenYay/aigc-film-master-skill)**  
-面向创意导演的 AI 影视制作知识与工作流。
+**🌙 [Aphelios](https://github.com/HuaShenYay/aphelios)**<br>
+为文学创作者打造的沉浸式桌面写作工具。<br>
+An immersive desktop writing tool for literary creators.
 
-`AI Film` `Creative Workflow`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**✦ [Monji Portfolio](https://github.com/HuaShenYay/monji-portfolio)**  
-作品、文字和想法的个人空间。
-
-`Next.js` `React` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-**📊 [Dashboard](https://github.com/ahanel13/sp-dashboard/pull/22)**  
-为 Super Productivity 的社区插件贡献可视化功能。
-
-`Productivity` `Open Source`
+`Tauri` `React` `Markdown`
 
 </td>
 </tr>
@@ -55,7 +41,7 @@
 
 <br>
 
-### ☁︎ 我的工具箱
+### ☁︎ 我的工具箱 · My toolkit
 
 `TypeScript` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Tailwind CSS` &nbsp; `Supabase`
 
