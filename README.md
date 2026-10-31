@@ -1,28 +1,27 @@
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Monji — Making ideas take shape" />
+  <br><br>
+  <b>中文</b> &nbsp; | &nbsp; <a href="https://github.com/HuaShenYay/HuaShenYay/blob/main/README.en.md">English</a>
 </div>
 
 <br>
 
-**你好，我是 Monji。** 👋<br>
-**Hi, I'm Monji.** 👋
+**你好，我是 Monji。** 👋
 
-喜欢把想法做成看得见、用得上的东西。在这里，我探索产品、Web、AI 和创意工作流，也记录一路上的好奇心。<br>
-I enjoy turning ideas into things people can see and use. Here I explore products, the web, AI, and creative workflows, following my curiosity along the way.
+喜欢把想法做成看得见、用得上的东西。在这里，我探索产品、Web、AI 和创意工作流，也记录一路上的好奇心。
 
 `Web & Design` &nbsp; `AI + Creativity` &nbsp; `Open Source`
 
 <br>
 
-### ✳︎ 正在探索 · What I'm exploring
+### ✳︎ 正在探索
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **📚 [集市 Agora](https://github.com/HuaShenYay/agora-next)**<br>
-用 AI 和开源协作重新翻译经典书籍的实验。<br>
-An experiment in translating classic books with AI and open collaboration.
+用 AI 和开源协作重新翻译经典书籍的实验。
 
 `Next.js` `AI` `Open Source`
 
@@ -30,8 +29,7 @@ An experiment in translating classic books with AI and open collaboration.
 <td width="50%" valign="top">
 
 **🌙 [Aphelios](https://github.com/HuaShenYay/aphelios)**<br>
-为文学创作者打造的沉浸式桌面写作工具。<br>
-An immersive desktop writing tool for literary creators.
+为文学创作者打造的沉浸式桌面写作工具。
 
 `Tauri` `React` `Markdown`
 
@@ -41,7 +39,7 @@ An immersive desktop writing tool for literary creators.
 
 <br>
 
-### ☁︎ 我的工具箱 · My toolkit
+### ☁︎ 我的工具箱
 
 `TypeScript` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Tailwind CSS` &nbsp; `Supabase`
 
