@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Monji — Making ideas take shape</title>
+  <desc id="desc">A playful cobalt and cream banner with colorful geometric shapes.</desc>
+  <rect width="1200" height="330" rx="20" fill="#2028a8"/>
+  <circle cx="1050" cy="112" r="106" fill="#f8cf43"/>
+  <circle cx="1023" cy="103" r="20" fill="#2028a8"/>
+  <circle cx="1080" cy="103" r="20" fill="#2028a8"/>
+  <path d="M1015 151 Q1050 180 1085 151" fill="none" stroke="#2028a8" stroke-width="9" stroke-linecap="round"/>
+  <rect x="829" y="222" width="208" height="64" rx="32" fill="#ff8eaa" transform="rotate(-9 933 254)"/>
+  <path d="M870 44 l8 23 23 8 -23 8 -8 23 -8 -23 -23 -8 23 -8z" fill="#92ecc8"/>
+  <circle cx="758" cy="233" r="13" fill="#ff8eaa"/>
+  <text x="64" y="75" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5" fill="#a9e8cf">HELLO, WORLD — I'M</text>
+  <text x="59" y="180" font-family="Arial,sans-serif" font-size="104" font-weight="800" letter-spacing="-5" fill="#fffaf0">Monji<tspan fill="#f8cf43">.</tspan></text>
+  <text x="65" y="233" font-family="Arial,sans-serif" font-size="26" fill="#fffaf0">Making ideas take shape.</text>
+  <text x="65" y="280" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#a9e8cf">CODE  /  STORIES  /  CURIOSITY</text>
+</svg>
